@@ -13,9 +13,9 @@
 
 🎓 Em 2023, concluí o Ensino Médio Técnico em Informática para a Internet na escola Pedro Ferreira Cintra, também em Itapira/SP. Para o TCC, desenvolvemos um site institucional para a escola utilizando WordPress, proporcionando uma plataforma mais acessível e funcional para alunos e professores.
 
-<div>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=LeonardoF22&show_icons=true&theme=transparent"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoF22&layout=compact&theme=transparent"/>
+<div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=LeonardoF22&show_icons=true&theme=transparent" hspace="10px"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoF22&layout=compact&theme=transparent" hspace="10px"/>
   
 </div>
 
