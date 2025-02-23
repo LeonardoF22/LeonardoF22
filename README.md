@@ -1,8 +1,20 @@
-# Olá, eu me chamo Leonardo!
+# 👋 Olá, eu sou o Leonardo
 
-Atualmente estou no 3º semestre do curso de Desenvolvimento de Software Multiplataforma na Fatec Ogari de Castro Pacheco localizada na cidade de Itapira/SP, com previsão de termino para o final de 2026. Ao longo do curso as matérias que estou mais curtindo são: Banco de Dados Relacional, Algoritmo e Lógica de Programação, Técnicas de Programação 1 e Desenvolvimento Web 2. Com isso percebi que a area que mais gostei foi de back-end, atualmente estou estudando C# por conta própria nas horas vagas.
+Sou estudante de Desenvolvimento de Software Multiplataforma na Fatec Ogari de Castro Pacheco, em Itapira/SP. Atualmente, estou no 3º semestre do curso, com previsão de conclusão para o final de 2026.
 
-Em 2023 conclui o Ensino Médio Técnico de Informática para a Internet na escola Pedro Ferreira Cintra localizada em Itapira/SP, para o TCC optamos por criar um site para a escola utilizando WordPress.
+💡 Durante minha jornada acadêmica, descobri um grande interesse pela área de Back-End, especialmente ao estudar disciplinas como:
 
+- Banco de Dados Relacional
+- Algoritmo e Lógica de Programação
+- Técnicas de Programação 1
+- Desenvolvimento Web 2
+
+🖥️ No momento, estou me aprofundando em C# por conta própria, explorando seu potencial para desenvolvimento back-end.
+
+🎓 Em 2023, concluí o Ensino Médio Técnico em Informática para a Internet na escola Pedro Ferreira Cintra, também em Itapira/SP. Para o TCC, desenvolvemos um site institucional para a escola utilizando WordPress, proporcionando uma plataforma mais acessível e funcional para alunos e professores.
+
+<div>
+  https://github-readme-stats.vercel.app/api?username=LeonardoF22&show_icons=true&theme=radical
+</div>
 
 
